@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="753267156745074"
+    token="2512956686057149221"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="752937333233895"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/austinguo550/floobits/share/danish123/LAHacks3.0/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="753267156745074"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

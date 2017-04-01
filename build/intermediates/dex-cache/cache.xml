@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/austinguo550/floobits/share/danish123/LAHacks3.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e89c870ed73efa92128042063284b5c2d8891e4">
+        <dex dex="/Users/austinguo550/floobits/share/danish123/LAHacks3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_948c7cfd89d6cb54401182eb9d265a4904e26738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/austinguo550/floobits/share/danish123/LAHacks3.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="514982e4094472bd14e43517e31ef4d01ebff110">
+        <dex dex="/Users/austinguo550/floobits/share/danish123/LAHacks3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a6ea93421f7d168929dd3fe0d13a0cf8182145fa/classes.dex" />
+    </item>
+
+</items>
