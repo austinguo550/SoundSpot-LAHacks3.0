@@ -26,6 +26,7 @@ public final class R {
         public static final int RadioSOS=0x7f050008;
         public static final int TextListen=0x7f05000b;
         public static final int TextStatus=0x7f05000a;
+        public static final int button=0x7f05000c;
     }
     public static final class layout {
         public static final int main=0x7f030000;

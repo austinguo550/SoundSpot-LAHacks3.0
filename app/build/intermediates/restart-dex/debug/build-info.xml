@@ -5,7 +5,7 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="753267156745074"
+    timestamp="757768911796976"
     token="2512956686057149221"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -23,14 +23,14 @@
         duration="0" />
 
     <build
-        timestamp="752937333233895"
+        timestamp="757747940461536"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/austinguo550/floobits/share/danish123/LAHacks3.0/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="753267156745074"
+        timestamp="757768911796976"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -61,4 +61,10 @@ android:gravity="left"></TextView>
 android:layout_width="fill_parent" android:layout_height="wrap_content" android:textSize="25dp"
 android:gravity="left"></TextView>
 
+	<Button
+		android:text="Upload"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/button" />
+
 </LinearLayout>
