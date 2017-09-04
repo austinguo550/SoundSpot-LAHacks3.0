@@ -1,4 +1,4 @@
-<b font-size="100">SoundSpot</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LA_Hacks_Logo.png/1200px-LA_Hacks_Logo.png" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LA_Hacks_Logo.png/1200px-LA_Hacks_Logo.png" height="100"> <b font-size="100">SoundSpot</b>
 
 Second Place at LA Hacks 2017
 
