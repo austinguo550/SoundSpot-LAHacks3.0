@@ -1,4 +1,4 @@
-<b font-size="100">SoundSpot</b>
+<b font-size="100">SoundSpot</b>  <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjUlpCFvIrWAhVlVWMKHaUkBdEQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLA_Hacks&psig=AFQjCNGwdL6huWJ1pRM6cncTSl-jCql8pw&ust=1504578019786268" height="100">
 
 Second Place at LA Hacks 2017
 
